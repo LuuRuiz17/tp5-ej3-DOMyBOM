@@ -11,3 +11,13 @@ main{
 label{
     font-weight: bold;
 }
+
+#formularioTareas{
+    width: 100%;
+}    
+
+@media (min-width: 992px) {
+    #formularioTareas{
+        width: 75%;
+    }    
+}
